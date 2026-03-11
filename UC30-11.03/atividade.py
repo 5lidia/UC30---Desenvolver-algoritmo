@@ -1,8 +1,3 @@
-
-Lídia Othilia <lidiaothilia5@gmail.com>
-8:18 AM (6 hours ago)
-to me
-
 aluno = {}
 
 
@@ -28,3 +23,4 @@ else:
     situacao = "Reprovado"
 
 print("Situação do aluno:", situacao)
+
